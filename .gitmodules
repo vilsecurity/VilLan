@@ -1,3 +1,3 @@
 [submodule "proto"]
 	path = proto
-	url = https://github.com/vilsecurity/VilLan-proto
+	url = https://github.com/vilsecurity/villan-proto
